@@ -1,4 +1,4 @@
-#LED Matrix
+# LED Matrix
 
 This project implements the operation of a LED matrix using 4 LEDs controlled by pulse width modulation (PWM).
 
