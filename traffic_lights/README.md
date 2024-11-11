@@ -11,3 +11,6 @@ This project was created to demonstrate the operation of the traffic lights.
 
 **Demonstration of work:** https://drive.google.com/file/d/1CDftJ0ZsoR75Y5SM48Rp0nBRwKuNdy7L/view?usp=drive_link
 https://drive.google.com/file/d/1vRcAvcpa5JtazXB1LqveZUEN0XHl81CJ/view?usp=drive_link
+
+
+![image](https://github.com/user-attachments/assets/d9ef52c2-3249-4386-8ec1-aa27f6c5dfdc)
