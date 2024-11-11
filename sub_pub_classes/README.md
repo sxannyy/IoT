@@ -12,3 +12,5 @@ Two boards: one board works with a light sensor, the other with an LED. The boar
 
 **Demonstration of work:**
 https://drive.google.com/file/d/15hy2c0WBQLoxdykdcY_Z4ms2uSuxAK3A/view?usp=drivesdk
+
+![image](https://github.com/user-attachments/assets/8cf074b2-69b8-456a-bab9-692b6bc9caf7)
