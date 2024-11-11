@@ -10,3 +10,6 @@ The indicators show the direction in which the breadboard should be turned. The 
 
 **Demonstration of work:** 
 https://drive.google.com/file/d/1pWfcJ25hFYx4lPsMYX7FXjhQaGelCm4-/view
+
+
+![image](https://github.com/user-attachments/assets/36205710-4d4c-445d-b538-24b6fa6cbc67)
