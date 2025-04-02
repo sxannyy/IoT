@@ -17,7 +17,7 @@ This repository was created for IoT homework.
 
 2 semester:
 + [BounceProcessing](https://github.com/sxannyy/IoT/tree/main/bounce_processing)
-+ [ButtonMatrix] (https://github.com/sxannyy/IoT/tree/main/ButtonMatrix)
++ [ButtonMatrix](https://github.com/sxannyy/IoT/tree/main/ButtonMatrix)
 + [RangeCalibration](https://github.com/sxannyy/IoT/tree/main/range_calibration)
 + [H-bridge](https://github.com/sxannyy/IoT/tree/main/H-bridge)
 + [Accelerometer](https://github.com/sxannyy/IoT/tree/main/accelerometer)
