@@ -21,4 +21,5 @@ This repository was created for IoT homework.
 + [RangeCalibration](https://github.com/sxannyy/IoT/tree/main/range_calibration)
 + [H-bridge](https://github.com/sxannyy/IoT/tree/main/H-bridge)
 + [Accelerometer](https://github.com/sxannyy/IoT/tree/main/accelerometer)
-
++ [state_machine](https://github.com/sxannyy/IoT/tree/main/state_machine)
++ [BT_car_control](https://github.com/sxannyy/IoT/tree/main/BT_car_control)
